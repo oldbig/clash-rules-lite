@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-SUFFIX,gemini.google.com,AI
+  - DOMAIN-SUFFIX,openai.com,AI
